@@ -83,3 +83,7 @@ The device will reboot automatically once flashing is complete.
 
 ### **8. Troubleshooting**
 If the device hangs at the boot logo after flashing, boot into Recovery Mode manually and perform a data wipe (Factory Reset).
+
+Note that this method can be performed without unlocking the bootloader, but access to the bootloader (fastboot) will be blocked afterwards. To fix this, **do not install any OTA updates** and follow the method below:
+
+https://xdaforums.com/t/cn-to-glo-permanantly-fixing-stylus-without-module-and-keep-fastboot.4780607/

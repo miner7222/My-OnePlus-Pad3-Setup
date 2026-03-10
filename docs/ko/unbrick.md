@@ -83,3 +83,7 @@
 
 ### **8. 문제 해결**
 플래싱 후 부트 로고에서 기기가 멈춘다면, 수동으로 리커버리 모드에 진입하여 데이터 삭제(공장 초기화, Factory Reset)를 수행하세요.
+
+이 방법은 부트로더 언락 없이 진행이 가능하지만, 이후 부트로더 진입이 차단되기 때문에 이를 고쳐야 합니다. 고치려면 **OTA를 설치하지 말고** 아래를 참고하세요:
+
+https://xdaforums.com/t/cn-to-glo-permanantly-fixing-stylus-without-module-and-keep-fastboot.4780607/
