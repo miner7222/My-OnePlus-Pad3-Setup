@@ -1,5 +1,5 @@
 ## **Environment**
-- Tested On OxygenOS 16.0.1.302
+- Tested On OxygenOS 16.0
 
 ---
 
@@ -26,6 +26,8 @@
 
 - [8Elite GPU Driver](https://t.me/OnePlusPad3Chat/5023)
   - v849 drivers extracted from Qualcomm Snapdragon 8 Elite Gen 5 device
+- [powerController](https://github.com/gitter0721/powercontroller)
+  - A module that protects battery life by forcing true hardware-level bypass charging, replacing OnePlus's gimmicky feature.
 
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert) _(PAID)_
   - Installs AdGuard's CA certificate to the system store on rooted devices for HTTPS filtering.

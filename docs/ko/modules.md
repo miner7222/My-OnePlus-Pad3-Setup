@@ -1,5 +1,5 @@
 ## **환경**
-- 테스트 환경: OxygenOS 16.0.1.302
+- 테스트 환경: OxygenOS 16.0
 
 ---
 
@@ -26,6 +26,9 @@
 
 - [8Elite GPU Driver](https://t.me/OnePlusPad3Chat/5023)
   - 퀄컴 스냅드래곤 8 Elite Gen 5 기기에서 추출된 v849 드라이버입니다.
+
+- [powerController](https://github.com/gitter0721/powercontroller)
+  - 원플러스의 기믹에 불과한 바이패스 충전 대신, 하드웨어 수준의 바이패스 충전을 강제하여 배터리 수명을 보호하는 모듈입니다.
 
 - [AdGuard Certificate](https://github.com/AdguardTeam/adguardcert) _(유료)_
   - HTTPS 필터링을 위해 루팅된 기기의 시스템 저장소에 AdGuard CA 인증서를 설치합니다.
