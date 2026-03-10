@@ -17,8 +17,7 @@ I am not responsible for any damage to your device. Proceed at your own risk.
 
 ## **Environment**
 
-* Tested On OnePlus Pad 3 with OxygenOS 16.0.1.302
-* Tested On OnePlus Pad 2 Pro with ColorOS 16.0.0.210
+* Tested On OnePlus Pad 3 with OxygenOS 16.0
 
 ---
 
