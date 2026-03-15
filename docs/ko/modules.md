@@ -18,7 +18,7 @@
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore)
   - Android 키 인증 시 생성되는 인증서 체인을 변조합니다.
 
-- [LSPosed-Irena](https://nightly.link/re-zero001/LSPosed-Irena/workflows/core/dev)
+- [LSPosed-JingMatrix](https://nightly.link/JingMatrix/LSPosed/workflows/core/master)
   - LSPlant 후킹 프레임워크를 활용하여 원본 Xposed와 일관된 API를 제공하는 ART 후킹 프레임워크입니다.
 
 - [BRENE](https://github.com/rrr333nnn333/BRENE)

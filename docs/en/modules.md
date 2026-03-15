@@ -18,7 +18,7 @@
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore)
   - Modifies the certificate chain generated for android key attestation.
 
-- [LSPosed-Irena](https://nightly.link/re-zero001/LSPosed-Irena/workflows/core/dev)
+- [LSPosed-JingMatrix](https://nightly.link/JingMatrix/LSPosed/workflows/core/master)
   - Provides an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.
 
 - [BRENE](https://github.com/rrr333nnn333/BRENE)
