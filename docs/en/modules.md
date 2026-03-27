@@ -18,8 +18,8 @@
 - [Tricky Store](https://github.com/5ec1cff/TrickyStore)
   - Modifies the certificate chain generated for android key attestation.
 
-- [LSPosed-JingMatrix](https://nightly.link/JingMatrix/LSPosed/workflows/core/master)
-  - Provides an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.
+- [Vector](https://github.com/JingMatrix/LSPosed)
+  - Provides an ART hooking framework that maintains API consistency with the original Xposed.
 
 - [BRENE](https://github.com/rrr333nnn333/BRENE)
   - SuSFS module for custom kernels with SuSFS patches.
