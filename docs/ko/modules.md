@@ -1,5 +1,5 @@
 ## **환경**
-- 테스트 환경: OxygenOS 16.0
+- 테스트 환경: OxygenOS 16.1
 
 ---
 
@@ -9,16 +9,14 @@
 - [YetAnotherBootloopProtector](https://github.com/rhythmcache/YetAnotherBootloopProtector)
   - Magisk/KernelSU/APatch 모듈로 인한 무한 부팅 및 시스템 UI 오류로부터 기기를 보호합니다.
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk)
+- [Zygisk Next](https://t.me/real5ec1cff)
   - Zygisk의 독립형 구현체로, KernelSU에 대한 Zygisk API 지원을 제공하며 Magisk 내장 Zygisk를 대체합니다.
-- [Treat Wheel](https://t.me/zygote64_32)
-  - ReZygisk용 루팅 숨김 모듈로, Zygisk의 흔적을 감지되지 않도록 숨깁니다.
-- [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
-  - Play Integrity 판정을 수정하여 유효한 인증을 받을 수 있게 합니다.
-- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
-  - Android 키 인증 시 생성되는 인증서 체인을 변조합니다.
+- [TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
+  - Android 키스토어 작업을 가로채 사용자가 제공한 keybox로 서명된 인증서 체인을 생성하여, 루팅된 기기에서 하드웨어 기반 키 인증을 시뮬레이션합니다.
+- [tricky-addon-enhanced](https://github.com/Enginex0/tricky-addon-enhanced)
+  - Tricky Store와 TEESimulator 관리를 자동화하는 네이티브 데몬으로, keybox 교체, 보안 패치 위장, 대상 앱 보호를 처리합니다.
 
-- [Vector](https://github.com/JingMatrix/LSPosed)
+- [LSPosed](https://lsposed.zip/)
   - 원본 Xposed와 API 호환성을 유지하는 ART 후킹 프레임워크를 제공합니다.
 
 - [BRENE](https://github.com/rrr333nnn333/BRENE)

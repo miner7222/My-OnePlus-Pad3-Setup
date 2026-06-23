@@ -1,5 +1,5 @@
 ## **Environment**
-- Tested On OxygenOS 16.0
+- Tested On OxygenOS 16.1
 
 ---
 
@@ -9,16 +9,14 @@
 - [YetAnotherBootloopProtector](https://github.com/rhythmcache/YetAnotherBootloopProtector)
   - Protects your device from bootloops and system ui failures caused by Magisk/KernelSU/APatch Modules.
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk)
+- [Zygisk Next](https://t.me/real5ec1cff)
   - Standalone implementation of Zygisk, providing Zygisk API support for KernelSU and a replacement of Magisk's built-in Zygisk.
-- [Treat Wheel](https://t.me/zygote64_32)
-  - Root-hiding module designed for ReZygisk that conceals Zygisk traces from detection.
-- [PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix)
-  - Fixes Play Integrity verdicts to get a valid attestation.
-- [Tricky Store](https://github.com/5ec1cff/TrickyStore)
-  - Modifies the certificate chain generated for android key attestation.
+- [TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS)
+  - Intercepts Android keystore operations to generate a certificate chain signed by a user-provided keybox, simulating hardware-backed key attestation on rooted devices.
+- [tricky-addon-enhanced](https://github.com/Enginex0/tricky-addon-enhanced)
+  - Native daemon that automates Tricky Store and TEESimulator management, handling keybox rotation, security patch spoofing, and target app protection.
 
-- [Vector](https://github.com/JingMatrix/LSPosed)
+- [LSPosed](https://lsposed.zip/)
   - Provides an ART hooking framework that maintains API consistency with the original Xposed.
 
 - [BRENE](https://github.com/rrr333nnn333/BRENE)

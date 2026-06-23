@@ -15,7 +15,7 @@ OnePlus Pad 3 (OPD2415) 및 OnePlus Pad 2 Pro (OPD2413)를 위한 가이드 및 
 
 ## **테스트 환경**
 
-* **OnePlus Pad 3:** OxygenOS 16.0 에서 테스트됨
+* **OnePlus Pad 3:** OxygenOS 16.1 에서 테스트됨
 
 ---
 
