@@ -16,9 +16,9 @@
 
 3.  Copy the extracted `init_boot.img` to your device's internal storage.
 
-4.  Download and install the latest manager APK from [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next).
+4.  Download and install the latest [ReSukiSU manager](https://nightly.link/ReSukiSU/ReSukiSU/workflows/build-manager/main/Spoofed-Manager-release).
 
-5.  Open KernelSU Next app, tap **Install** button in the top right, and select the `init_boot.img` to begin patching.
+5.  Open ReSukiSU app, tap **Install** button in the top right, and select the `init_boot.img` to begin patching.
 
 6.  A patched file named `kernelsu_next_patched_{date}_{time}.img` will be created in your device's `Downloads` folder. Copy this file back to your PC.
 
@@ -27,7 +27,7 @@
 8.  In your terminal, run the following commands to flash the patched image:
 
     ```
-    fastboot flash init_boot kernelsu_next_patched_{date}_{time}.img
+    fastboot flash init_boot kernelsu_patched_{date}_{time}.img
     ```
 
 9.  If the flashing is successful, reboot your device:
@@ -50,7 +50,7 @@
 After an OTA or local update is installed, **do not reboot**.
 
 #### **For LKM Mode**
-Open the KernelSU Next app. Tap the **Install** button in the top right, then go to **Install** -> **Install to Inactive Slot**. After it finishes, reboot the device.
+Open the ReSukiSU app. Tap the **Install** button in the top right, then go to **Install** -> **Install to Inactive Slot**. After it finishes, reboot the device.
 
 #### **For GKI Mode**
 Use [Kernel Flasher](https://github.com/fatalcoder524/KernelFlasher) to install the AK3 zip file to the **Inactive Slot**.
