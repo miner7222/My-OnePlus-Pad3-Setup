@@ -41,7 +41,7 @@
   - 앱을 숨기거나 앱 목록 요청을 거부하며, 앱 목록이 제대로 숨겨졌는지 테스트하는 기능을 제공합니다.
 
 - [OShin](https://github.com/suqi8/OShin)
-  - ColorOS/OxygenOS 시스템을 커스터마이징합니다.
+  - ColorOS/OxygenOS 시스템을 심층적으로 커스터마이징합니다.
 - [DisableAudioFocus](https://github.com/auag0/DisableAudioFocus)
   - 오디오 포커스를 비활성화하여 여러 오디오 소스를 동시에 재생할 수 있게 합니다.
 
